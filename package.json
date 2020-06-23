@@ -1,0 +1,17 @@
+{
+  "name": "authproxy",
+  "version": "1.0.0",
+  "description": "Simple proxy that acts as authentication proxy, using keycloak as authentication provider",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yves Schubert <yves.schubert@posteo.de> (https://github.com/scyv/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.0",
+    "express-session": "^1.17.1",
+    "keycloak-connect": "^10.0.2"
+  }
+}

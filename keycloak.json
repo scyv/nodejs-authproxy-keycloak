@@ -1,0 +1,10 @@
+{
+    "realm": "my-super-realm",
+    "auth-server-url": "http://localhost:18080/auth/",
+    "ssl-required": "external",
+    "resource": "authproxy",
+    "credentials": {
+      "secret": "some-secret"
+    },
+    "confidential-port": 0
+  }
