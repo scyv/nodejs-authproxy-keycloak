@@ -9,7 +9,7 @@
   "author": "Yves Schubert <yves.schubert@posteo.de> (https://github.com/scyv/)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-http-proxy": "^1.6.0",
     "express-session": "^1.17.1",
     "keycloak-connect": "^10.0.2"
